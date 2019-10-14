@@ -1,0 +1,1 @@
+package com.yafatek.Drinks;import com.yafatek.Core.Pepsi;public class LargePepsi extends Pepsi {	@Override	public String name() {		return "750ml Pepsi";	}	@Override	public String size() {		return "large size";	}	@Override	public float price() {		return 15;	}}

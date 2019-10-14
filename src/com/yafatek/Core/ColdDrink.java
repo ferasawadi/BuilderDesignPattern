@@ -1,0 +1,1 @@
+package com.yafatek.Core;public abstract class ColdDrink  implements Items {	public abstract float price();}

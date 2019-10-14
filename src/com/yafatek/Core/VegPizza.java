@@ -1,0 +1,1 @@
+package com.yafatek.Core;public abstract class VegPizza extends Pizza {	public abstract float price();	public abstract String size();	public abstract String name();}

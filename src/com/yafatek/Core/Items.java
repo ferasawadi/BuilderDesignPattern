@@ -1,0 +1,1 @@
+package com.yafatek.Core;public interface Items {	public String name();	public  String size();	public float price();}

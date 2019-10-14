@@ -1,0 +1,1 @@
+package com.yafatek.Core;public abstract class Pizza implements Items {	public abstract float price();}

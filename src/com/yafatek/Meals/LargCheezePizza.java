@@ -1,0 +1,1 @@
+package com.yafatek.Meals;import com.yafatek.Core.VegPizza;public class LargCheezePizza extends VegPizza {	@Override	public float price() {		return 50;	}	@Override	public String size() {		return "Large Pizza";	}	@Override	public String name() {		return "Large Cheese Pizza!";	}}
